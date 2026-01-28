@@ -52,8 +52,6 @@ Scalable backend services and REST APIs using **Django**, **Django REST Framewor
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavfu&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abhinavfu&theme=dark&hide_border=false)
-
 ### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinavfu&style=flat&color=58C6F0)
 
