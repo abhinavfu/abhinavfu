@@ -52,6 +52,8 @@ Scalable backend services and REST APIs using **Django**, **Django REST Framewor
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavfu&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=abhinavfu&theme=dark&hide_border=false)
+
 ### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=abhinavfu&style=flat&color=58C6F0)
 
@@ -59,7 +61,7 @@ Scalable backend services and REST APIs using **Django**, **Django REST Framewor
 
 ### Featured Projects
 
-<a href="http://abhinav7.pythonanywhere.com/portfolio">
+<a href="http://abhinav7.pythonanywhere.com/">
 
 **Portfolio Webapp**
 `Python` `Django`
@@ -69,7 +71,7 @@ Personal portfolio showcasing projects with detailed descriptions and live demos
 
 ---
 
-<a href="http://abhinav7.pythonanywhere.com/blog">
+<a href="http://abhinav7.pythonanywhere.com/blog/">
 
 **Blog Webapp**
 `Python` `Django` `Selenium`
@@ -79,7 +81,7 @@ Secure, scalable blog platform with authentication, posts, likes, comments, and 
 
 ---
 
-<a href="http://abhinav7.pythonanywhere.com/ecommerce">
+<a href="http://abhinav7.pythonanywhere.com/shop/">
 
 **E-commerce Webapp**
 `Python` `Django` `Selenium`
@@ -89,21 +91,11 @@ Full-featured e-commerce system with search, cart, wishlist, orders, and admin m
 
 ---
 
-<a href="http://abhinav7.pythonanywhere.com/restaurant">
+<a href="http://abhinav7.pythonanywhere.com/restaurant/">
 
 **Restaurant Webapp & REST API**
 `Django` `Django REST Framework`
 RESTful system with token-based auth, menu browsing, table booking, and order placement.
-
-</a>
-
----
-
-<a href="http://abhinav7.pythonanywhere.com/vendor-management">
-
-**Vendor Management REST API**
-`Django` `Django REST Framework`
-Secure API for vendor onboarding, order workflows, and performance metrics tracking.
 
 </a>
 
